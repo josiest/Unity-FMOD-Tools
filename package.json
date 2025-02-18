@@ -1,0 +1,14 @@
+{
+    "name": "com.pi.fmodtools",
+    "version": "0.1.0",
+    "description": "Simple tools for working with FMOD in Unity",
+    "displayName": "Pi FMOD Tools",
+    "unity": "6000.0",
+    "author": {
+        "name": "Josie Thompson",
+        "url": "https://josiest.github.io"
+    },
+    "keywords": {
+        "FMOD"
+    }
+}
