@@ -10,5 +10,8 @@
     },
     "keywords": [
         "FMOD"
-    ]
+    ],
+    "dependencies": {
+        "FMODUnity": "2.02.26"
+    }
 }

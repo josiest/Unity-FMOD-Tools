@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Pi.FMODTools
 {
-    [UnityEngine.CreateAssetMenu(menuName="Pi Toolset/FMOD Tools/Audio Bus")]
+    [CreateAssetMenu(menuName="Pi Toolset/FMOD Tools/Audio Bus")]
     public class AudioBus : ScriptableObject
     {
         // Configuration

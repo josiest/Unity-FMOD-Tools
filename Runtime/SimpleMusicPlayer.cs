@@ -1,6 +1,6 @@
 ﻿using FMOD.Studio;
 using FMODUnity;
-using UntyEngine;
+using UnityEngine;
 using STOP_MODE = FMOD.Studio.STOP_MODE;
 
 namespace Pi.FMODTools {
