@@ -4,7 +4,7 @@ using UnityEngine;
 using STOP_MODE = FMOD.Studio.STOP_MODE;
 
 namespace Pi.FMODTools {
-    public class SimpleMusicPlayer : UnityEngine.MonoBehaviour
+    public class SimpleMusicPlayer : MonoBehaviour
     {
         // Configuration
         [Header("General")]
